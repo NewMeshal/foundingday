@@ -1,0 +1,74 @@
+
+h1{color: rgb(146, 91, 18);
+
+
+
+    font-size: medium;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: 400;
+    font-style: oblique;
+    text-decoration:none;
+    font-weight: bold;} 
+    
+    h2{
+    color: #231f20;
+    font-size: larger;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-style: inherit;
+    text-decoration: solid;
+    font-weight: bolder;
+    
+    }
+    
+    
+    p{
+        color: rgb(167, 73, 11);
+    
+    font-size: larger;
+    
+    
+    
+    }
+    #saudifounding {color: rgb(228, 166, 95);}
+    
+    .menu{ backface-visibility: visible;
+    overflow: auto;
+    width: auto;
+    height: auto;
+    }
+    .menu a {
+        display: block;
+    
+    text-align: center;
+    text-decoration: none;
+    border: 1px;
+    border-width: 2ex;
+    border-color: rgb(232, 232, 243);
+    border-style: solid;
+    border-radius: 4px;
+    margin-left: 10px;
+    padding: 10px;
+    margin: 20px;
+    font-size: 18px;
+    color: rgb(168, 113, 9);
+    background-color: #231f20;
+    
+    }
+    .menu a:hover{
+        color:#231f20;
+    background-color: rgb(196, 90, 30);
+    
+    
+    
+    }
+    .pohoto {background-color: #6B4E45;backface-visibility: visible; 
+    
+    }
+    .main ul {background-color: #231f20;
+     backface-visibility: visible;
+     overflow: auto;
+    }
+     body {
+    
+        background-color:#F4EADA;
+     }
